@@ -1,4 +1,4 @@
-<img src="https://github.com/C-Sophrosyne/Applied_DS_Capstone/blob/main/img/Certificate.png" alt="Certificate" title="Data Science Capstone">"
+<img src="https://github.com/C-Sophrosyne/Applied_DS_Capstone/blob/main/img/Certificate.png" alt="Certificate" title="Data Science Capstone">
 
 # Applied Data Science Capstone By IBM
 
